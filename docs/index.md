@@ -21,7 +21,7 @@ Bem-vindo ao Documento de Visão para o projeto **Veri Docinhos**. Este document
 - [Requisitos](./requisitos.md)
 - [Casos de Uso](./casos-de-uso.md)
 - [Diagrama de Classes](./diagrama-de-classes.md)
-- [Protótipos de Telas](./prototipos.md)
+- [Protótipos de Telas](./prototipos-telas.md)
 - [Cronograma e Entrega](./cronograma.md)
 - [Riscos e Mitigação](./riscos.md)
 - [Custos e Orçamento](./custos.md)
