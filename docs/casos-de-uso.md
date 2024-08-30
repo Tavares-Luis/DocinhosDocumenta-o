@@ -1,6 +1,6 @@
 # Diagrama de Caso de Uso
 
-![Diagrama de caso de uso Confeitaria](./imagens/diagrama-caso-uso.png)
+![Diagrama de caso de uso Confeitaria](./imagens/diagrama_caso_uso.png)
 
 ## Descrição de Caso de Uso
 
